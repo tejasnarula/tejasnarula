@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tejasnarula 
+- 👀 I’m interested in coding/making games
+- 🌱 I’m currently learning python, html, js and more...
+- 💞️ I’m looking to collaborate on a python(pygame) game
+- 📫 How to reach me - **None**
